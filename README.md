@@ -1,2 +1,8 @@
 # Win-10-Cleaner
-Bereinigen von Temporären Dateien, Logs, Dumps, Update-Resten etc.
+Bereinigt:
+- Windows Temps
+- Windows Logs
+- unnütze Ordner/Favoriten
+- Software Temps
+- Crash Dumps
+- DNS Cache
