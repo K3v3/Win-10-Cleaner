@@ -8,3 +8,5 @@ Bereinigt:
 - Software Temps
 - Crash Dumps
 - DNS Cache
+
+Kann gerne ausgebaut und weiterbearbeitet werden =).
